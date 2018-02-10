@@ -1,5 +1,5 @@
 {
-  "name": "chatty app",
+  "name": "chatty_app",
   "version": "1.0.0",
   "description": "A chat app built using React.js frontend and Node.js backend",
   "main": "index.js",
